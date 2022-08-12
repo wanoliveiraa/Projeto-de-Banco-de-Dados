@@ -1,2 +1,2 @@
 # Projeto-de-Banco-de-Dados
-Atividada da faculdade
+Atividade da faculdade
