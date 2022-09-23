@@ -1,2 +1,2 @@
 # Projeto-de-Banco-de-Dados
-Atividade da faculdade
+Aprendendo sobre banco de dados, modelo relacional
