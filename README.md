@@ -1,2 +1,2 @@
 # Projeto-de-Banco-de-Dados
-Aprendendo sobre banco de dados, modelo relacional
+Um projeto composto pelo modelo entidade e relacionamento, modelo relacional e comandos sql.
